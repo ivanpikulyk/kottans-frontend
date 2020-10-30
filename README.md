@@ -1,7 +1,7 @@
 # Credits, this descriptions of commands taken from Udacity course <a href="https://www.udacity.com/course/version-control-with-git--ud123" rel="nofollow">Version Control with Git</a> and <a href="https://learngitbranching.js.org" rel="nofollow">learngitbranching.js.org</a> 
 
 
-- Create an empty Git repository or reinitialize an existing one
+- Create an empty Git repository or reinitialize an existing one <br>
 git init 
  
 new-git-project <br>

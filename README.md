@@ -59,7 +59,7 @@ new-git-project <br>
     └── tags <br>
 
 
-- Clone a repository into a new directory
+- Clone a repository into a new directory<br> 
 git clone url  <additional argument how this repository which I trying to clone will be named instead of original name>
 
 - Show the working tree status

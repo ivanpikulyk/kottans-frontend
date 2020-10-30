@@ -1,4 +1,4 @@
-# Credits, this descriptions of commands taken from Udacity git course <a href="https://www.udacity.com/course/version-control-with-git--ud123" rel="nofollow">Version Control with Git</a> and learngitbranching.js.org 
+- Credits, this descriptions of commands taken from Udacity git course <a href="https://www.udacity.com/course/version-control-with-git--ud123" rel="nofollow">Version Control with Git</a> and learngitbranching.js.org 
 
 
 # Create an empty Git repository or reinitialize an existing one

@@ -6,57 +6,57 @@ git init
  
 new-git-project <br>
 .git <br>
-├── branches
-├── COMMIT_EDITMSG
-├── config
-├── description
-├── HEAD
-├── hooks
-│   ├── applypatch-msg.sample
-│   ├── commit-msg.sample
-│   ├── fsmonitor-watchman.sample
-│   ├── post-update.sample
-│   ├── pre-applypatch.sample
-│   ├── pre-commit.sample
-│   ├── pre-merge-commit.sample
-│   ├── prepare-commit-msg.sample
-│   ├── pre-push.sample
-│   ├── pre-rebase.sample
-│   ├── pre-receive.sample
-│   └── update.sample
-├── index
-├── info
-│   └── exclude
-├── logs
-│   ├── HEAD
-│   └── refs
-│       └── heads
-│           └── master
-├── objects # this directory will be stored all commits which I make
-│   ├── 03
-│   │   └── 71c624d9e48a458e47af4b58265e53558059e5
-│   ├── 21
-│   │   └── cf2ad8af085eeba4074f1bfdde0859e4b5a27a
-│   ├── 23
-│   │   └── d0346d5da86206ce06f42438ee3657bbfe0ef7
-│   ├── 50
-│   │   └── baa5e568df5577d90c22d6b7dd2250c09a4861
-│   ├── 51
-│   │   └── afa957071f56ff61b0542737b862f416ee7c75
-│   ├── 53
-│   │   └── a2754e67e533925d6baded5e3876617d8d0bc3
-│   ├── a3
-│   │   └── 3232ad235b9b00959c54e8c14fa8bf81ffee22
-│   ├── b7
-│   │   └── 3fde3a497eced12b98f5514129038ef54c95f0
-│   ├── e6
-│   │   └── 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
-│   ├── info
-│   └── pack
-└── refs # this directory holds pointers to commits (basically the "branches" and "tags")
-    ├── heads
-    │   └── master
-    └── tags
+├── branches <br> 
+├── COMMIT_EDITMSG <br>
+├── config <br>
+├── description <br>
+├── HEAD <br>
+├── hooks <br>
+│   ├── applypatch-msg.sample <br>
+│   ├── commit-msg.sample <br>
+│   ├── fsmonitor-watchman.sample <br>
+│   ├── post-update.sample <br>
+│   ├── pre-applypatch.sample <br>
+│   ├── pre-commit.sample <br>
+│   ├── pre-merge-commit.sample <br>
+│   ├── prepare-commit-msg.sample <br>
+│   ├── pre-push.sample <br>
+│   ├── pre-rebase.sample <br>
+│   ├── pre-receive.sample <br>
+│   └── update.sample <br>
+├── index <br>
+├── info <br>
+│   └── exclude <br>
+├── logs <br>
+│   ├── HEAD <br>
+│   └── refs <br>
+│       └── heads <br>
+│           └── master <br>
+├── objects - this directory will be stored all commits which I make <br>
+│   ├── 03 <br>
+│   │   └── 71c624d9e48a458e47af4b58265e53558059e5 <br>
+│   ├── 21 <br>
+│   │   └── cf2ad8af085eeba4074f1bfdde0859e4b5a27a <br>
+│   ├── 23 <br>
+│   │   └── d0346d5da86206ce06f42438ee3657bbfe0ef7 <br>
+│   ├── 50 <br>
+│   │   └── baa5e568df5577d90c22d6b7dd2250c09a4861 <br>
+│   ├── 51 <br>
+│   │   └── afa957071f56ff61b0542737b862f416ee7c75 <br>
+│   ├── 53 <br>
+│   │   └── a2754e67e533925d6baded5e3876617d8d0bc3 <br>
+│   ├── a3 <br>
+│   │   └── 3232ad235b9b00959c54e8c14fa8bf81ffee22 <br>
+│   ├── b7 <br>
+│   │   └── 3fde3a497eced12b98f5514129038ef54c95f0 <br>
+│   ├── e6 <br>
+│   │   └── 9de29bb2d1d6434b8b29ae775ad8c2e48c5391 <br>
+│   ├── info <br>
+│   └── pack <br>
+└── refs - this directory holds pointers to commits (basically the "branches" and "tags") <br>
+    ├── heads <br>
+    │   └── master <br>
+    └── tags <br>
 
 
 - Clone a repository into a new directory

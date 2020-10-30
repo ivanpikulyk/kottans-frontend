@@ -4,8 +4,8 @@
 - Create an empty Git repository or reinitialize an existing one
 git init 
  
-new-git-project
-.git
+new-git-project <br>
+.git <br>
 ├── branches
 ├── COMMIT_EDITMSG
 ├── config

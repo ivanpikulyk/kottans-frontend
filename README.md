@@ -243,7 +243,7 @@ git fetch origin :bugFix
 3xx: Redirection<br>
 4xx: Client Error<br>
 5xx: Server Error<br>
-<span></span>
+<div></div>
 openssl s_client -connect example.com:443<br>
 
 TRACE / HTTP/1.1<br>

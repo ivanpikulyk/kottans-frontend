@@ -233,9 +233,20 @@ git fetch origin :bugFix
 
 ## Linux CLI, and HTTP
 
-<img src="https://github.com/ivanpikulyk/kottans-frontend/blob/171bd2749c8824c4ab1f4750298dde72e4c979fc/task_linux_cli/photo_2020-10-31_23-04-12.jpg" alt="task_linux_cli" style="max-width:25%;">
-<img src="https://github.com/ivanpikulyk/kottans-frontend/blob/171bd2749c8824c4ab1f4750298dde72e4c979fc/task_linux_cli/photo_2020-10-31_23-04-17.jpg" alt="task_linux_cli" style="max-width:25%;">
-<img src="https://github.com/ivanpikulyk/kottans-frontend/blob/171bd2749c8824c4ab1f4750298dde72e4c979fc/task_linux_cli/photo_2020-10-31_23-04-20.jpg" alt="task_linux_cli" style="max-width:25%;">
-<img src="https://github.com/ivanpikulyk/kottans-frontend/blob/171bd2749c8824c4ab1f4750298dde72e4c979fc/task_linux_cli/photo_2020-10-31_23-04-23.jpg" alt="task_linux_cli" style="max-width:25%;">
+<img src="https://github.com/ivanpikulyk/kottans-frontend/blob/171bd2749c8824c4ab1f4750298dde72e4c979fc/task_linux_cli/photo_2020-10-31_23-04-12.jpg" alt="task_linux_cli_1" style="max-width:25%;">
+<img src="https://github.com/ivanpikulyk/kottans-frontend/blob/171bd2749c8824c4ab1f4750298dde72e4c979fc/task_linux_cli/photo_2020-10-31_23-04-17.jpg" alt="task_linux_cli_2" style="max-width:25%;">
+<img src="https://github.com/ivanpikulyk/kottans-frontend/blob/171bd2749c8824c4ab1f4750298dde72e4c979fc/task_linux_cli/photo_2020-10-31_23-04-20.jpg" alt="task_linux_cli_3" style="max-width:25%;">
+<img src="https://github.com/ivanpikulyk/kottans-frontend/blob/171bd2749c8824c4ab1f4750298dde72e4c979fc/task_linux_cli/photo_2020-10-31_23-04-23.jpg" alt="task_linux_cli_4" style="max-width:25%;">
 
+1xx: Informational Messages
+2xx: Successful
+3xx: Redirection
+4xx: Client Error
+5xx: Server Error
+
+openssl s_client -connect example.com:443
+
+TRACE / HTTP/1.1
+host: example.com
+<img src="https://github.com/ivanpikulyk/kottans-frontend/blob/main/task_linux_cli/telnet_trace.PNG" alt="telnet_trace" style="max-width:25%;">
 </details>

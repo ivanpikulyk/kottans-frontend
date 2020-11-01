@@ -222,3 +222,7 @@ git fetch origin foo
 git push origin :side
 
 git fetch origin :bugFix
+
+## Linux CLI, and HTTP
+
+<img src="https://github.com/ivanpikulyk/kottans-frontend/raw/master/task_linux_cli/task_linux_cli/photo_2020-10-31_23-04-12.jpg" alt="task_linux_cli" style="max-width:50%;">

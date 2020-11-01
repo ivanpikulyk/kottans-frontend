@@ -1,5 +1,5 @@
 <details>
-    <summary>0) Git Basics</summary>
+    <summary>0.Git Basics</summary>
     Something small enough to escape casual notice.
 
 # Credits, this descriptions of commands taken from Udacity course <a href="https://www.udacity.com/course/version-control-with-git--ud123" rel="nofollow">Version Control with Git</a> and <a href="https://learngitbranching.js.org" rel="nofollow">learngitbranching.js.org</a> 
@@ -228,7 +228,15 @@ git push origin :side
 git fetch origin :bugFix
  
 </details>
- 
+ <details>
+    <summary>1.Linux CLI and Networking</summary>
+  
+
 ## Linux CLI, and HTTP
 
 <img src="https://github.com/ivanpikulyk/kottans-frontend/blob/171bd2749c8824c4ab1f4750298dde72e4c979fc/task_linux_cli/photo_2020-10-31_23-04-12.jpg" alt="task_linux_cli" style="max-width:25%;">
+<img src="https://github.com/ivanpikulyk/kottans-frontend/blob/171bd2749c8824c4ab1f4750298dde72e4c979fc/task_linux_cli/photo_2020-10-31_23-04-17.jpg" alt="task_linux_cli" style="max-width:25%;">
+<img src="https://github.com/ivanpikulyk/kottans-frontend/blob/171bd2749c8824c4ab1f4750298dde72e4c979fc/task_linux_cli/photo_2020-10-31_23-04-20.jpg" alt="task_linux_cli" style="max-width:25%;">
+<img src="https://github.com/ivanpikulyk/kottans-frontend/blob/171bd2749c8824c4ab1f4750298dde72e4c979fc/task_linux_cli/photo_2020-10-31_23-04-23.jpg" alt="task_linux_cli" style="max-width:25%;">
+
+</details>

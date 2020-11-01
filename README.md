@@ -1,4 +1,4 @@
-<div>
+
     <input type="checkbox" id="hd-1" class="hide"/>
     <label for="hd-1" >Нажмите здесь, чтобы увидеть скрытый текст №1</label>
      <div>

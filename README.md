@@ -248,5 +248,6 @@ openssl s_client -connect example.com:443<br>
 
 TRACE / HTTP/1.1<br>
 host: example.com<br>
+
 <img src="https://github.com/ivanpikulyk/kottans-frontend/blob/main/task_linux_cli/telnet_trace.PNG" alt="telnet_trace" style="max-width:25%;">
 </details>

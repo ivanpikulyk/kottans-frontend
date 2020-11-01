@@ -133,7 +133,7 @@ git log -p fdf5493</pre>
 
 <pre>git branch -D sidebar</pre>
 
--Switch and Create Branch In One Command<br>
+- Switch and Create Branch In One Command<br>
 <pre>git checkout -b richards-branch-for-awesome-changes</pre>
 
 - show all branches<br>

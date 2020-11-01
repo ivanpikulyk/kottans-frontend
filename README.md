@@ -1,3 +1,7 @@
+<details>
+    <summary>0) Git Basics</summary>
+    Something small enough to escape casual notice.
+
 # Credits, this descriptions of commands taken from Udacity course <a href="https://www.udacity.com/course/version-control-with-git--ud123" rel="nofollow">Version Control with Git</a> and <a href="https://learngitbranching.js.org" rel="nofollow">learngitbranching.js.org</a> 
 
 
@@ -223,6 +227,7 @@ git push origin :side
 
 git fetch origin :bugFix
  
+</details>
  
 ## Linux CLI, and HTTP
 

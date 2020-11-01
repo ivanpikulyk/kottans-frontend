@@ -237,7 +237,7 @@ git fetch origin :bugFix
 <img src="https://github.com/ivanpikulyk/kottans-frontend/blob/171bd2749c8824c4ab1f4750298dde72e4c979fc/task_linux_cli/photo_2020-10-31_23-04-17.jpg" alt="task_linux_cli_2" style="max-width:25%;">
 <img src="https://github.com/ivanpikulyk/kottans-frontend/blob/171bd2749c8824c4ab1f4750298dde72e4c979fc/task_linux_cli/photo_2020-10-31_23-04-20.jpg" alt="task_linux_cli_3" style="max-width:25%;">
 <img src="https://github.com/ivanpikulyk/kottans-frontend/blob/171bd2749c8824c4ab1f4750298dde72e4c979fc/task_linux_cli/photo_2020-10-31_23-04-23.jpg" alt="task_linux_cli_4" style="max-width:25%;">
-
+<hr>
 1xx: Informational Messages<br>
 2xx: Successful<br>
 3xx: Redirection<br>

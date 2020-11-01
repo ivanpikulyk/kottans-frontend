@@ -238,15 +238,15 @@ git fetch origin :bugFix
 <img src="https://github.com/ivanpikulyk/kottans-frontend/blob/171bd2749c8824c4ab1f4750298dde72e4c979fc/task_linux_cli/photo_2020-10-31_23-04-20.jpg" alt="task_linux_cli_3" style="max-width:25%;">
 <img src="https://github.com/ivanpikulyk/kottans-frontend/blob/171bd2749c8824c4ab1f4750298dde72e4c979fc/task_linux_cli/photo_2020-10-31_23-04-23.jpg" alt="task_linux_cli_4" style="max-width:25%;">
 
-1xx: Informational Messages
-2xx: Successful
-3xx: Redirection
-4xx: Client Error
-5xx: Server Error
+1xx: Informational Messages<br>
+2xx: Successful<br>
+3xx: Redirection<br>
+4xx: Client Error<br>
+5xx: Server Error<br>
 
-openssl s_client -connect example.com:443
+openssl s_client -connect example.com:443<br>
 
-TRACE / HTTP/1.1
-host: example.com
+TRACE / HTTP/1.1<br>
+host: example.com<br>
 <img src="https://github.com/ivanpikulyk/kottans-frontend/blob/main/task_linux_cli/telnet_trace.PNG" alt="telnet_trace" style="max-width:25%;">
 </details>

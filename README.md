@@ -1,3 +1,7 @@
+<div>
+    <input type="checkbox" id="hd-1" class="hide"/>
+    <label for="hd-1" >Нажмите здесь, чтобы увидеть скрытый текст №1</label>
+     <div>
 # Credits, this descriptions of commands taken from Udacity course <a href="https://www.udacity.com/course/version-control-with-git--ud123" rel="nofollow">Version Control with Git</a> and <a href="https://learngitbranching.js.org" rel="nofollow">learngitbranching.js.org</a> 
 
 
@@ -222,7 +226,8 @@ git fetch origin foo
 git push origin :side
 
 git fetch origin :bugFix
-
+ </div>
+ 
 ## Linux CLI, and HTTP
 
 <img src="https://github.com/ivanpikulyk/kottans-frontend/blob/171bd2749c8824c4ab1f4750298dde72e4c979fc/task_linux_cli/photo_2020-10-31_23-04-12.jpg" alt="task_linux_cli" style="max-width:50%;">

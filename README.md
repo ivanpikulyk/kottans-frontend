@@ -225,4 +225,4 @@ git fetch origin :bugFix
 
 ## Linux CLI, and HTTP
 
-<img src="https://github.com/ivanpikulyk/kottans-frontend/raw/master/task_linux_cli/task_linux_cli/photo_2020-10-31_23-04-12.jpg" alt="task_linux_cli" style="max-width:50%;">
+<img src="https://github.com/ivanpikulyk/kottans-frontend/blob/171bd2749c8824c4ab1f4750298dde72e4c979fc/task_linux_cli/photo_2020-10-31_23-04-12.jpg" alt="task_linux_cli" style="max-width:50%;">

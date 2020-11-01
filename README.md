@@ -5,7 +5,7 @@
 
 
 - Create an empty Git repository or reinitialize an existing one <br>
-git init 
+<pre>git init </pre>
  
 new-git-project <br>
 .git <br>

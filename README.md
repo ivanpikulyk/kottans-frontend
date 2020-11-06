@@ -252,7 +252,7 @@ host: example.com<br>
 <img src="https://github.com/ivanpikulyk/kottans-frontend/blob/main/task_linux_cli/telnet_trace.PNG" alt="telnet_trace" style="max-width:25%;">
 </details>
  <details>
-    <summary>1.Git Collaboration</summary>
+    <summary>2.VCS (hello gitty), GitHub and Collaboration</summary>
 <img src="https://github.com/ivanpikulyk/kottans-frontend/blob/main/task_git_collaboration/photo_2020-11-06_19-49-09.jpg;">
 <img src="https://github.com/ivanpikulyk/kottans-frontend/blob/main/task_git_collaboration/photo_2020-11-06_19-47-57.jpg;">
 <img src="https://github.com/ivanpikulyk/kottans-frontend/blob/main/task_git_collaboration/photo_2020-11-06_19-47-48.jpg;">    

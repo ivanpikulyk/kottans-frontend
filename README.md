@@ -253,7 +253,7 @@ host: example.com<br>
 </details>
  <details>
     <summary>2.VCS (hello gitty), GitHub and Collaboration</summary>
-<img src="https://github.com/ivanpikulyk/kottans-frontend/blob/main/task_git_collaboration/photo_2020-11-06_19-49-09.jpg;">
-<img src="https://github.com/ivanpikulyk/kottans-frontend/blob/main/task_git_collaboration/photo_2020-11-06_19-47-57.jpg;">
-<img src="https://github.com/ivanpikulyk/kottans-frontend/blob/main/task_git_collaboration/photo_2020-11-06_19-47-48.jpg;">    
+<img src="https://github.com/ivanpikulyk/kottans-frontend/blob/main/task_git_collaboration/photo_2020-11-06_19-49-09.jpg">
+<img src="https://github.com/ivanpikulyk/kottans-frontend/blob/main/task_git_collaboration/photo_2020-11-06_19-47-57.jpg">
+<img src="https://github.com/ivanpikulyk/kottans-frontend/blob/main/task_git_collaboration/photo_2020-11-06_19-47-48.jpg">    
 </details>

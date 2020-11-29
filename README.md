@@ -253,7 +253,14 @@ host: example.com<br>
 </details>
  <details>
     <summary>2.VCS (hello gitty), GitHub and Collaboration</summary>
+    # Credits, this descriptions of commands taken from Udacity course <a href="https://www.udacity.com/course/version-control-with-git--ud123" rel="nofollow">Version Control with Git</a> and <a href="https://learngitbranching.js.org" rel="nofollow">learngitbranching.js.org</a> 
 <img src="https://github.com/ivanpikulyk/kottans-frontend/blob/main/task_git_collaboration/photo_2020-11-06_19-49-09.jpg">
 <img src="https://github.com/ivanpikulyk/kottans-frontend/blob/main/task_git_collaboration/photo_2020-11-06_19-47-57.jpg">
 <img src="https://github.com/ivanpikulyk/kottans-frontend/blob/main/task_git_collaboration/photo_2020-11-06_19-47-48.jpg">    
+</details>
+<details>
+    <summary>3.Intro to HTML & CSS</summary>
+<img src="https://github.com/ivanpikulyk/kottans-frontend/blob/main/task_html_css_intro/photo_2020-11-29_18-45-44.jpg">
+<img src="https://github.com/ivanpikulyk/kottans-frontend/blob/main/task_html_css_intro/photo_2020-11-29_18-45-59.jpg">
+<img src="https://github.com/ivanpikulyk/kottans-frontend/blob/main/task_html_css_intro/photo_2020-11-29_18-46-07.jpg">    
 </details>

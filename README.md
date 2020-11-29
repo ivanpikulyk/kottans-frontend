@@ -254,40 +254,42 @@ host: example.com<br>
  <details>
     <summary>2.VCS (hello gitty), GitHub and Collaboration</summary>
     # Credits, this descriptions of commands taken from Udacity course <a href="https://www.udacity.com/course/version-control-with-git--ud123" rel="nofollow">Version Control with Git</a> and <a href="https://learngitbranching.js.org" rel="nofollow">learngitbranching.js.org</a> 
-    git remote
+    
+<pre>git remote</pre>
 
 # change directory to cloned remote repository and in order to see full path instead of short name use flag: "-v"
 
-git remote -v
+<pre>git remote -v</pre>
 
 #  is used to add a connection to a new remote repository.
 
-git remote add
+<pre>git remote add</pre>
 
 # send commits to the remote repository on GitHub
 
-git push origin master
+<pre>git push origin master</pre>
 
 # display commits
 
-git log —oneline —graph —decorate —all
+<pre>git log —oneline —graph —decorate —all</pre>
 
 # to sync the local repository  with the remote repository 
 
-git pull origin master
+<pre>git pull origin master</pre>
 
 # half of git pull (The other half of git pull is the merging aspect)
-git fetch origin master
+<pre>git fetch origin master</pre>
 
-git shortlog
+<pre>git shortlog</pre>
 
-git shortlog -s -n
+<pre>git shortlog -s -n</pre>
 
-git log —author="<name of the author>"
+<pre>git log —author="<name of the author>"</pre>
 
-git show <SHA>
+<pre>git show <SHA></pre>
 
-git log —grep=bug
+<pre>git log —grep=bug</pre>
+
 <img src="https://github.com/ivanpikulyk/kottans-frontend/blob/main/task_git_collaboration/photo_2020-11-06_19-49-09.jpg">
 <img src="https://github.com/ivanpikulyk/kottans-frontend/blob/main/task_git_collaboration/photo_2020-11-06_19-47-57.jpg">
 <img src="https://github.com/ivanpikulyk/kottans-frontend/blob/main/task_git_collaboration/photo_2020-11-06_19-47-48.jpg">    

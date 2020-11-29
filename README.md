@@ -296,6 +296,7 @@ host: example.com<br>
 </details>
 <details>
     <summary>3.Intro to HTML & CSS</summary>
+    It was better then previous free video courses which I saw. but still, i feel it is not enough for me to memorize important topic of Flexbox in CSS.
 <img src="https://github.com/ivanpikulyk/kottans-frontend/blob/main/task_html_css_intro/photo_2020-11-29_18-45-44.jpg">
 <img src="https://github.com/ivanpikulyk/kottans-frontend/blob/main/task_html_css_intro/photo_2020-11-29_18-45-59.jpg">
 <img src="https://github.com/ivanpikulyk/kottans-frontend/blob/main/task_html_css_intro/photo_2020-11-29_18-46-07.jpg">    
